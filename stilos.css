@@ -1,10 +1,10 @@
-  *{
-   background-color: white;
+ *{
+   background-color: #D3CF77;
    box-sizing: border-box; 
  }
 
  #box{
-  background-color: white;
+  background-color: #D3CF77;
   padding:30px;
 
 }
@@ -14,7 +14,7 @@ h2{
   margin-bottom: 30px;
   padding-top: 20px;
   text-align: center;
-  background-color: white;
+  background-color: #D3CF77;
 }
 
 #highlight {
@@ -52,7 +52,7 @@ h2{
 
 #highlight4 {
 
-  background-color: blue;
+  background-color: #FB7BF5;
   border: 4px solid black;
   font-size:24px;
   font-weight: bold;
@@ -64,7 +64,7 @@ h2{
 
 
 #p1 {
-  padding: 60px 20px 10px 20px;
+  padding: 80px 20px 10px 20px;
   border: 4px solid;
   font-size:18px;
   background-color:gray;
@@ -74,34 +74,37 @@ h2{
 }
 
 #p2 {
-  padding: 60px 20px 10px 20px;
+  padding: 80px 20px 10px 20px;
   border: 4px solid;
   font-size:18px;
-  background-color:blue;
+  background-color:yellow;
   color:black;
   font-weight: bold;
   font-style: italic;
 }
 
 #p3 {
-  padding: 60px 20px 10px 20px;
+  padding: 80px 20px 10px 20px;
   border: 4px solid;
   font-size:18px;
   background-color:cyan;
   color:black;
   font-weight: bold;
   font-style: italic;
+  clear: left;
 }
 
 #p4 {
-  padding: 60px 20px 10px 20px;
+  padding: 80px 20px 10px 20px;
   border: 4px solid;
   font-size:18px;
-  background-color:purple;
+  background-color:#C82AC0;
   color:black;
   font-weight: bold;
   font-style: italic;
 }
+
+
 /* RESPONSIVE WORK DEVICE */
 
 .fili {
@@ -234,6 +237,7 @@ h2{
 .colp12{
   width: 100%;
 }
+
 #cosita{
   position: relative;
 }
